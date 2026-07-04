@@ -4,8 +4,7 @@ intern : arihant jain . Domain : web development . Batch: june 2026
 This repository contains my solutions for the Oasis Infobyte Web Development Internship tasks.
 
 * task 1: landing page - { status completed } |:
-<a href="http://gIOKeY9T6iu3JqT
-:e4hk4dzoPwR8u9V@localhost:17557/storage/emulated/0/Arihantja8n_level1/index.html"> view website </a>
+<a href="https://amanpokharna.github.io/landing-page/"> view website </a>
 
 * task 2: protfolio - { status completed } | : <a href="http://127.0.0.1:5500/task2/index2.html"> view website</a>
 
